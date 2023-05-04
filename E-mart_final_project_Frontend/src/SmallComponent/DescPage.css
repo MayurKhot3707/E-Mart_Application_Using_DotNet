@@ -1,0 +1,17 @@
+.tr {
+    border-collapse: collapse;
+    border-spacing: 30px;
+}
+.img{
+    border: 2px soild black ;
+}
+.button2 {border-radius: 12px; width: 80%; height: 30%; background-color: yellow; }
+.button3 {border-radius: 12px; width: 80%; height: 30%; background-color: orange; }
+.form-select{
+    width: 80%;
+}
+.border{
+    margin-left: 2em;
+    padding: 2em;
+  
+}

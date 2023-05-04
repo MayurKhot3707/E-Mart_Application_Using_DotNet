@@ -1,0 +1,22 @@
+.card-container {
+  display: block;
+  width: 100%;
+}
+
+.card-column {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 0 5px;
+}
+
+.card-column:first-child {
+  width: 25%;
+}
+
+.card-column:nth-child(2) {
+  width: 60%;
+}
+
+.card-column:last-child {
+  width: 15%;
+}
